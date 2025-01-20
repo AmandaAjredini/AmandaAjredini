@@ -1,6 +1,7 @@
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Amanda Ajredini</h1>
 <h3 align="center">A passionate Computer Science Student @ TUDublin</h3>
-<img align="centre" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">
+
 
 
 <h3 align="left">Languages and Tools:</h3>
