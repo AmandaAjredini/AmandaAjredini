@@ -82,10 +82,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" alt="xml" width="40" height="40"/> 
   </a>
 </p>
-<br/>
 
+<h3 align="left">📊 GitHub Stats:</h3>
 <div align="left">
-  <h3 align="left">📊 GitHub Stats:</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=AmandaAjredini&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaAjredini&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
 </div>
