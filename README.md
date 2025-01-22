@@ -5,8 +5,8 @@
 <p align="left">I'm a passionate & eager 2nd year student currently pursuing a BSc in Computer Science with a keen interest in software development.</p>
 <p align="left">📫 How to reach me : amanda_ajredini@hotmail.com</p></br>
 
+<img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="cute_gif" width="450" height="450"/>
 <h3 align="left">💻 Languages-Frameworks-Tools:</h3>
-<img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="cute_gif" width="500" height="500"/>
 
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
