@@ -98,4 +98,5 @@ I'm a passionate & eager 2nd year student currently pursuing a BSc in Computer S
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaAjredini&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
 </div>
 
+### 🐍 My Contributions:
 ![Snake Animation](https://raw.githubusercontent.com/AmandaAjredini/AmandaAjredini/output/github-contribution-grid-snake-dark.svg)
