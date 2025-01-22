@@ -27,10 +27,10 @@ I'm a passionate & eager 2nd year student currently pursuing a BSc in Computer S
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a>
-  <br/>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
+  </a>
+  <br/>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
@@ -43,13 +43,13 @@ I'm a passionate & eager 2nd year student currently pursuing a BSc in Computer S
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   </a>
-  <br/>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
+  </a>
   <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg" alt="apache" width="40" height="40"/> 
   </a>
+  <br/>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
   </a>
@@ -57,7 +57,6 @@ I'm a passionate & eager 2nd year student currently pursuing a BSc in Computer S
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" alt="uml" width="40" height="40"/> 
   </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original-wordmark.svg" alt="embeddedC" width="40" height="40"/>
-  <br/>
   <a href="https://www.kernel.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a>
@@ -67,13 +66,13 @@ I'm a passionate & eager 2nd year student currently pursuing a BSc in Computer S
   <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/> 
   </a>
+  <br/>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> 
+    <img src="https://www.svgrepo.com/show/353478/bash-icon.svg" alt="bash" width="40" height="40"/> 
   </a>
   <a href="https://www.canva.com/en_gb/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/> 
   </a>
-  <br/>
   <a href="https://dbeaver.io/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" alt="dbeaver" width="40" height="40"/> 
   </a>
@@ -82,6 +81,22 @@ I'm a passionate & eager 2nd year student currently pursuing a BSc in Computer S
   </a>
   <a href="https://www.xml.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" alt="xml" width="40" height="40"/> 
+  </a>
+  <a href="https://www.putty.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/putty/putty-original.svg" alt="puTTY" width="40" height="40"/> 
+  </a>
+  <br/>
+  <a href="https://platformio.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/PlatformIO_logo.svg/900px-PlatformIO_logo.svg.png?20220205132823" alt="platformIO" width="40" height="40"/> 
+  </a>
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" alt="tableau" width="40" height="40"/> 
+  </a>
+  <a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.svgrepo.com/show/354575/xampp.svg" alt="xampp" width="40" height="40"/> 
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" alt="github" width="40" height="40"/> 
   </a>
 </p>
 <br/>
