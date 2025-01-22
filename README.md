@@ -2,12 +2,13 @@
 
 <img align="left" src="https://komarev.com/ghpvc/?username=amandaajredini&label=Visitors&color=7E1CCE&style=flat" alt="profile_viewers" /></br></br>
 
-<p align="left">I'm a passionate & eager 2nd year student currently pursuing a BSc in Computer Science with a keen interest in software development.</p>
-<p align="left">📫 How to reach me : amanda_ajredini@hotmail.com</p>
+I'm a passionate & eager 2nd year student currently pursuing a BSc in Computer Science with a keen interest in software development.  
+
+📫 How to reach me : amanda_ajredini@hotmail.com
 
 <img align="center" src="https://raw.githubusercontent.com/erdyn/welcomeGif/refs/heads/main/pixel-cat.gif" alt="cat_gif" width="150" height="150"/>
 
-<h3 align="left">💻 Languages-Frameworks-Tools:</h3>
+### 💻 Languages-Frameworks-Tools:
 <img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="cute_gif" width="450" height="450"/>
 
 <p align="left">
@@ -91,8 +92,10 @@
 <br/>
 <br/>
 
-<h3 align="left">📊 GitHub Stats:</h3>
+### 📊 GitHub Stats:
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=AmandaAjredini&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaAjredini&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
 </div>
+
+![Snake Animation](https://raw.githubusercontent.com/AmandaAjredini/AmandaAjredini/output/github-contribution-grid-snake-dark.svg)
