@@ -3,9 +3,9 @@
 <img align="left" src="https://komarev.com/ghpvc/?username=amandaajredini&label=Visitors&color=7E1CCE&style=flat" alt="profile_viewers" /></br></br>
 
 <p align="left">I'm a passionate & eager 2nd year student currently pursuing a BSc in Computer Science with a keen interest in software development.</p>
-<p align="left">📫 How to reach me : amanda_ajredini@hotmail.com</p></br>
+<p align="left">📫 How to reach me : amanda_ajredini@hotmail.com</p>
 
-<img align="right" src="https://raw.githubusercontent.com/erdyn/welcomeGif/refs/heads/main/pixel-cat.gif" alt="cat_gif" />
+<img align="center" src="https://raw.githubusercontent.com/erdyn/welcomeGif/refs/heads/main/pixel-cat.gif" alt="cat_gif" width="150" height="150"/>
 
 <h3 align="left">💻 Languages-Frameworks-Tools:</h3>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="cute_gif" width="450" height="450"/>
