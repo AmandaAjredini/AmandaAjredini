@@ -110,7 +110,7 @@ I'm a passionate & eager 2nd year student currently pursuing a BSc in Computer S
 ### 📊 GitHub Stats:
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=AmandaAjredini&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaAjredini&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+  
 </div>
 
 ### 🐍 My Contributions:
