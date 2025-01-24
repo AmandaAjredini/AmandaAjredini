@@ -4,7 +4,7 @@
 
 I'm a passionate & eager 2nd year student currently pursuing a BSc in Computer Science with a keen interest in software development.  
 
-📫 How to reach me : amanda_ajredini@hotmail.com
+📫 How to reach me : **amanda_ajredini@hotmail.com**
 
 <img align="center" src="https://raw.githubusercontent.com/erdyn/welcomeGif/refs/heads/main/pixel-cat.gif" alt="cat_gif" width="150" height="150"/>
 
