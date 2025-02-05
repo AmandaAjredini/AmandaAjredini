@@ -98,6 +98,9 @@ I'm a passionate & eager 2nd year student currently pursuing a BSc in Computer S
   <a href="https://github.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" alt="github" width="40" height="40"/> 
   </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+  </a>
 </p>
 <br/>
 <br/>
