@@ -63,10 +63,10 @@ I'm a passionate & eager 2nd year student currently pursuing a BSc in Computer S
   <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/> 
   </a>
-  <br/>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/353478/bash-icon.svg" alt="bash" width="40" height="40"/> 
   </a>
+  <br/>
   <a href="https://www.canva.com/en_gb/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/> 
   </a>
@@ -82,10 +82,10 @@ I'm a passionate & eager 2nd year student currently pursuing a BSc in Computer S
   <a href="https://www.putty.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/putty/putty-original.svg" alt="puTTY" width="40" height="40"/> 
   </a>
-  <br/>
   <a href="https://platformio.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/PlatformIO_logo.svg/900px-PlatformIO_logo.svg.png?20220205132823" alt="platformIO" width="40" height="40"/> 
   </a>
+  <br/>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" alt="tableau" width="40" height="40"/> 
   </a>
