@@ -2,7 +2,7 @@
 
 <img align="left" src="https://komarev.com/ghpvc/?username=amandaajredini&label=Visitors&color=7E1CCE&style=flat" alt="profile_viewers" /></br></br>
 
-I'm a passionate & eager 2nd year student currently pursuing a BSc in Computer Science with a keen interest in software development.  
+I'm a passionate & eager 2nd year student currently pursuing a BSc in Computer Science with a keen interest in backend software development.  
 
 📫 How to reach me : **amanda_ajredini@hotmail.com**
 
